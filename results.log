@@ -1,0 +1,26 @@
+
+2024-07-16 13:23:11,546 - Error: 401 - {"errors":[{"detail":"Authentication failed. Your API key is either missing, incorrect, or revoked. Note: The APIv2 key differs from the APIv1 key.","status":401}]}
+2024-07-16 13:23:36,372 - Error: 400 - {
+  "errors": [
+    {
+      "id": "wrong_params",
+      "code": 400,
+      "details": "You are missing the email parameter"
+    }
+  ]
+}
+2024-07-16 13:23:40,886 - Error: 401 - {"errors":[{"detail":"Authentication failed. Your API key is either missing, incorrect, or revoked. Note: The APIv2 key differs from the APIv1 key.","status":401}]}
+2024-07-16 13:24:11,999 - Error: 401 - {"errors":[{"detail":"Authentication failed. Your API key is either missing, incorrect, or revoked. Note: The APIv2 key differs from the APIv1 key.","status":401}]}
+2024-07-16 13:25:25,520 - elonmusk@facebook.com has not been found in any breaches.
+2024-07-16 13:25:37,952 - Password has been found 18342735 times in data breaches.
+2024-07-16 13:25:48,988 - Error: 401 - {"errors":[{"detail":"Authentication failed. Your API key is either missing, incorrect, or revoked. Note: The APIv2 key differs from the APIv1 key.","status":401}]}
+2024-07-16 13:26:17,339 - Email ivymuir@tlgcohort.com is flagged with status: undeliverable
+2024-07-16 13:27:32,581 - Error: 401 - {"errors":[{"detail":"Authentication failed. Your API key is either missing, incorrect, or revoked. Note: The APIv2 key differs from the APIv1 key.","status":401}]}
+2024-07-16 13:32:51,303 - Error: 401 - {"errors":[{"detail":"Authentication failed. Your API key is either missing, incorrect, or revoked. Note: The APIv2 key differs from the APIv1 key.","status":401}]}
+2024-07-16 13:33:14,331 - Error: 401 - {"errors":[{"detail":"Authentication failed. Your API key is either missing, incorrect, or revoked. Note: The APIv2 key differs from the APIv1 key.","status":401}]}
+2024-07-16 13:35:38,011 - IP 164.92.174.157 is flagged with abuse confidence score: 100
+2024-07-16 13:37:24,160 - IP 164.92.174.157 is flagged with abuse confidence score: 100
+2024-07-16 13:39:04,772 - elonmust@x.com has not been found in any breaches.
+2024-07-16 13:39:21,592 - Password has been found 18342735 times in data breaches.
+2024-07-16 13:40:26,931 - Password has not been found in any breaches.
+2024-07-16 13:40:54,972 - Email elonmusk@gmail.com is flagged with status: undeliverable
